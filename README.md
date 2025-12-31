@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="SHADYA P(git).png" alt="Shadya P Banner" />
+  <img src="img.png" alt="Shadya P Banner" />
 </p>
 
 Pre-final year Computer Science student specializing in Artificial Intelligence and Machine Learning.<br>Passionate about the transformative power of AI, Machine Learning, and Full Stack Development. I thrive on solving real-world problems through innovative, scalable, and user-centric solutions.<br><br>Currently Learning:<br>-  React: Building dynamic, responsive user interfaces with modern component-based architecture<br>-  Machine Learning Algorithms: Exploring supervised and unsupervised models, feature engineering, and model evaluation<br>-  OpenCV: Applying computer vision techniques for image processing, object detection, and real-time analysis<br><br>
